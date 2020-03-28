@@ -1,1 +1,1 @@
-Figures to illustrate the concepts of Multigrid.
+Figures related to the project.
